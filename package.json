@@ -19,6 +19,6 @@
   "homepage": "https://github.com/comp426-2022-spring/a01-brendan0malley#readme",
   "dependencies": {
     "minimalist": "^1.0.0",
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   }
 }
